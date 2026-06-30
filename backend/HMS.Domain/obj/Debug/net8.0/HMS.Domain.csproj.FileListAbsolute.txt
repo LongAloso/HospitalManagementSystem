@@ -1,0 +1,11 @@
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\bin\Debug\net8.0\HMS.Domain.deps.json
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\bin\Debug\net8.0\HMS.Domain.dll
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\bin\Debug\net8.0\HMS.Domain.pdb
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\obj\Debug\net8.0\HMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\obj\Debug\net8.0\HMS.Domain.AssemblyInfoInputs.cache
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\obj\Debug\net8.0\HMS.Domain.AssemblyInfo.cs
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\obj\Debug\net8.0\HMS.Domain.csproj.CoreCompileInputs.cache
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\obj\Debug\net8.0\HMS.Domain.dll
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\obj\Debug\net8.0\refint\HMS.Domain.dll
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\obj\Debug\net8.0\HMS.Domain.pdb
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Domain\obj\Debug\net8.0\ref\HMS.Domain.dll

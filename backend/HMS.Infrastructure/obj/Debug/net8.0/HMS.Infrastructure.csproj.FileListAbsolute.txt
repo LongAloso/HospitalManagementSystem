@@ -1,0 +1,17 @@
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\bin\Debug\net8.0\HMS.Infrastructure.deps.json
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\bin\Debug\net8.0\HMS.Infrastructure.dll
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\bin\Debug\net8.0\HMS.Infrastructure.pdb
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\bin\Debug\net8.0\HMS.Application.dll
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\bin\Debug\net8.0\HMS.Domain.dll
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\bin\Debug\net8.0\HMS.Application.pdb
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\bin\Debug\net8.0\HMS.Domain.pdb
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.AssemblyInfo.cs
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infr.D1046C3A.Up2Date
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.dll
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\refint\HMS.Infrastructure.dll
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.pdb
+C:\Data\Dev\NetCore\HospitalManagementSystem\backend1\HMS.Infrastructure\obj\Debug\net8.0\ref\HMS.Infrastructure.dll
