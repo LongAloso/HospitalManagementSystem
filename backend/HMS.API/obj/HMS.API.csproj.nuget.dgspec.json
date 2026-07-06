@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.API\\HMS.API.csproj": {}
+    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\HMS.API.csproj": {}
   },
   "projects": {
-    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.API\\HMS.API.csproj": {
+    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\HMS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.API\\HMS.API.csproj",
+        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\HMS.API.csproj",
         "projectName": "HMS.API",
-        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.API\\HMS.API.csproj",
+        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\HMS.API.csproj",
         "packagesPath": "C:\\Users\\LongAloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.API\\obj\\",
+        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\HMS.Application.csproj": {
-                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\HMS.Application.csproj"
+              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj": {
+                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj"
               },
-              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Infrastructure\\HMS.Infrastructure.csproj": {
-                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Infrastructure\\HMS.Infrastructure.csproj"
+              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\HMS.Infrastructure.csproj": {
+                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\HMS.Infrastructure.csproj"
               },
-              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Persistence\\HMS.Persistence.csproj": {
-                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Persistence\\HMS.Persistence.csproj"
+              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\HMS.Persistence.csproj": {
+                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\HMS.Persistence.csproj"
               }
             }
           }
@@ -62,6 +62,10 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -118,14 +122,14 @@
         }
       }
     },
-    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\HMS.Application.csproj": {
+    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\HMS.Application.csproj",
+        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj",
         "projectName": "HMS.Application",
-        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\HMS.Application.csproj",
+        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj",
         "packagesPath": "C:\\Users\\LongAloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\obj\\",
+        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -147,8 +151,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj": {
-                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj"
+              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj": {
+                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj"
               }
             }
           }
@@ -170,9 +174,21 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.9.0, )"
             }
           },
           "imports": [
@@ -209,14 +225,14 @@
         }
       }
     },
-    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj": {
+    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj",
+        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj",
         "projectName": "HMS.Domain",
-        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj",
+        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj",
         "packagesPath": "C:\\Users\\LongAloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\obj\\",
+        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -290,14 +306,14 @@
         }
       }
     },
-    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Infrastructure\\HMS.Infrastructure.csproj": {
+    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\HMS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Infrastructure\\HMS.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\HMS.Infrastructure.csproj",
         "projectName": "HMS.Infrastructure",
-        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Infrastructure\\HMS.Infrastructure.csproj",
+        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\HMS.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\LongAloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Infrastructure\\obj\\",
+        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -319,8 +335,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\HMS.Application.csproj": {
-                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\HMS.Application.csproj"
+              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj": {
+                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj"
               }
             }
           }
@@ -385,14 +401,14 @@
         }
       }
     },
-    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Persistence\\HMS.Persistence.csproj": {
+    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\HMS.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Persistence\\HMS.Persistence.csproj",
+        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\HMS.Persistence.csproj",
         "projectName": "HMS.Persistence",
-        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Persistence\\HMS.Persistence.csproj",
+        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\HMS.Persistence.csproj",
         "packagesPath": "C:\\Users\\LongAloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Persistence\\obj\\",
+        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -414,8 +430,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\HMS.Application.csproj": {
-                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Application\\HMS.Application.csproj"
+              "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj": {
+                "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj"
               }
             }
           }

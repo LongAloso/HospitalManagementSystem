@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4WjqzkYHpwY=",
+  "dgSpecHash": "+vuQJHg3Pn0=",
   "success": true,
-  "projectFilePath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj",
+  "projectFilePath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LongAloso\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
     "C:\\Users\\LongAloso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\LongAloso\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
     "C:\\Users\\LongAloso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
   ],
   "logs": []

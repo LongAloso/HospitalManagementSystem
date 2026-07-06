@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj": {}
+    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj": {
+    "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj",
+        "projectUniqueName": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj",
         "projectName": "HMS.Domain",
-        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\HMS.Domain.csproj",
+        "projectPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj",
         "packagesPath": "C:\\Users\\LongAloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend1\\HMS.Domain\\obj\\",
+        "outputPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

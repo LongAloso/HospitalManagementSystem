@@ -6,6 +6,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
+using HMS.Domain.Constants;
 
 namespace HMS.Infrastructure.Services;
 
@@ -30,6 +31,15 @@ public class TokenService : ITokenService
             new Claim(ClaimTypes.Role, user.Role)
         };
 
+      
+        var permissions = GetPermissionsForRole(user.Role);
+        foreach (var permission in permissions)
+        {
+            
+            claims.Add(new Claim("Permission", permission));
+        }
+     
+
         var tokenDescriptor = new SecurityTokenDescriptor
         {
             Subject = new ClaimsIdentity(claims),
@@ -50,5 +60,17 @@ public class TokenService : ITokenService
         using var rng = RandomNumberGenerator.Create();
         rng.GetBytes(randomNumber);
         return Convert.ToBase64String(randomNumber);
+    }
+
+    private List<string> GetPermissionsForRole(string role)
+    {
+        return role.ToLower() switch
+        {
+            "doctor" => new List<string> { Permissions.CreatePrescription, Permissions.UpdatePrescription, Permissions.ViewMedicalRecord },
+            "receptionist" => new List<string> { Permissions.ApproveAppointment, Permissions.CancelAppointment },
+            "patient" => new List<string> { Permissions.ViewMedicalRecord },
+            "admin" => new List<string> { Permissions.CreatePrescription, Permissions.ApproveAppointment, Permissions.CancelAppointment }, // Admin có mọi quyền
+            _ => new List<string>()
+        };
     }
 }
