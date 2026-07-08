@@ -309,7 +309,6 @@ C:\Data\Dev\NetCore\HospitalManagementSystem\backend\HMS.API\obj\Debug\net8.0\st
 C:\Data\Dev\NetCore\HospitalManagementSystem\backend\HMS.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Data\Dev\NetCore\HospitalManagementSystem\backend\HMS.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Data\Dev\NetCore\HospitalManagementSystem\backend\HMS.API\obj\Debug\net8.0\swae.build.ex.cache
-C:\Data\Dev\NetCore\HospitalManagementSystem\backend\HMS.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Data\Dev\NetCore\HospitalManagementSystem\backend\HMS.API\obj\Debug\net8.0\HMS.API.csproj.Up2Date
 C:\Data\Dev\NetCore\HospitalManagementSystem\backend\HMS.API\obj\Debug\net8.0\HMS.API.dll
 C:\Data\Dev\NetCore\HospitalManagementSystem\backend\HMS.API\obj\Debug\net8.0\refint\HMS.API.dll

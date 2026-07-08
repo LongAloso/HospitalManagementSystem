@@ -6,11 +6,10 @@ using System.Reflection;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
-using Microsoft.OpenApi.Models; // <-- Thêm thư viện này cho Swagger
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1. Cấu hình JWT Settings
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 var secretKey = Encoding.UTF8.GetBytes(jwtSettings["Secret"]!);
 
@@ -33,7 +32,6 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
-// 2. Cấu hình Database & Dependency Injection
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
@@ -44,12 +42,10 @@ builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
-// 3. CẤU HÌNH SWAGGER (TÍCH HỢP Ổ KHÓA JWT)
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "HMS.API", Version = "v1" });
 
-    // Tạo form nhập Token
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Description = "Nhập Token theo cú pháp: Bearer {chuỗi_JWT_của_bạn}",
@@ -59,7 +55,7 @@ builder.Services.AddSwaggerGen(c =>
         Scheme = "Bearer"
     });
 
-    // Ép Swagger phải đính kèm Token này vào mỗi request
+   
     c.AddSecurityRequirement(new OpenApiSecurityRequirement()
     {
         {
@@ -79,9 +75,9 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+builder.Services.AddScoped<IEmailService, EmailService>();
 var app = builder.Build();
 
-// 4. Cấu hình Middleware Pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -90,10 +86,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-// Xác thực danh tính 
 app.UseAuthentication();
 
-// Phân quyền
 app.UseAuthorization();
 
 app.MapControllers();

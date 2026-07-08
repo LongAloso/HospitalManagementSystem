@@ -3,16 +3,100 @@
   "WorkspaceRootPath": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BB66100-34E9-4177-AEB9-09C6A3D5F86A}|HMS.Infrastructure\\HMS.Infrastructure.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB66100-34E9-4177-AEB9-09C6A3D5F86A}|HMS.Infrastructure\\HMS.Infrastructure.csproj|solutionrelative:hms.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\entities\\doctorleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\doctorleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911F0A52-7A81-44B6-8973-ECCBD37C3747}|HMS.Persistence\\HMS.Persistence.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911F0A52-7A81-44B6-8973-ECCBD37C3747}|HMS.Persistence\\HMS.Persistence.csproj|solutionrelative:hms.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\appointments\\commands\\approveappointment\\approveappointmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\appointments\\commands\\approveappointment\\approveappointmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\appointments\\commands\\approveappointment\\approveappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\appointments\\commands\\approveappointment\\approveappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|solutionrelative:hms.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\dtos\\allergydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\dtos\\allergydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\appointments\\commands\\createappointment\\createappointmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\appointments\\commands\\createappointment\\createappointmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\appointments\\commands\\createappointment\\createappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\appointments\\commands\\createappointment\\createappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|solutionrelative:hms.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\patients\\commands\\createpatient\\createpatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\patients\\commands\\createpatient\\createpatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\patients\\commands\\createpatient\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\patients\\commands\\createpatient\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.api\\hms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|solutionrelative:hms.api\\hms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\auth\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\auth\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\patients\\commands\\createpatient\\createpatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\patients\\commands\\createpatient\\createpatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\hms.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\hms.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911F0A52-7A81-44B6-8973-ECCBD37C3747}|HMS.Persistence\\HMS.Persistence.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911F0A52-7A81-44B6-8973-ECCBD37C3747}|HMS.Persistence\\HMS.Persistence.csproj|solutionrelative:hms.persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\entities\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,44 +107,20 @@
       "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\auth\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|solutionrelative:hms.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.api\\filters\\haspermissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|solutionrelative:hms.api\\filters\\haspermissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\patients\\commands\\createpatient\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\patients\\commands\\createpatient\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\dtos\\allergydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\dtos\\allergydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB66100-34E9-4177-AEB9-09C6A3D5F86A}|HMS.Infrastructure\\HMS.Infrastructure.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB66100-34E9-4177-AEB9-09C6A3D5F86A}|HMS.Infrastructure\\HMS.Infrastructure.csproj|solutionrelative:hms.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\entities\\patientallergy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\patientallergy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\hms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -69,14 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|solutionrelative:hms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{911F0A52-7A81-44B6-8973-ECCBD37C3747}|HMS.Persistence\\HMS.Persistence.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{911F0A52-7A81-44B6-8973-ECCBD37C3747}|HMS.Persistence\\HMS.Persistence.csproj|solutionrelative:hms.persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -99,10 +151,6 @@
       "RelativeMoniker": "D:0:0:{8139808D-2124-4848-9CCE-482D4747415D}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{911F0A52-7A81-44B6-8973-ECCBD37C3747}|HMS.Persistence\\HMS.Persistence.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.persistence\\hms.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{911F0A52-7A81-44B6-8973-ECCBD37C3747}|HMS.Persistence\\HMS.Persistence.csproj|solutionrelative:hms.persistence\\hms.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -111,16 +159,8 @@
       "RelativeMoniker": "D:0:0:{911F0A52-7A81-44B6-8973-ECCBD37C3747}|HMS.Persistence\\HMS.Persistence.csproj|solutionrelative:hms.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.api\\hms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8CC9888B-3F33-4E8A-A2A8-9BE6AC75D5B8}|HMS.API\\HMS.API.csproj|solutionrelative:hms.api\\hms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BB66100-34E9-4177-AEB9-09C6A3D5F86A}|HMS.Infrastructure\\HMS.Infrastructure.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB66100-34E9-4177-AEB9-09C6A3D5F86A}|HMS.Infrastructure\\HMS.Infrastructure.csproj|solutionrelative:hms.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|c:\\data\\dev\\netcore\\hospitalmanagementsystem\\backend\\hms.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B13686-36E7-4022-93EA-7ED08E978225}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,11 +170,48 @@
       "DocumentGroups": [
         {
           "DockedHeight": 307,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "DoctorLeave.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\DoctorLeave.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\DoctorLeave.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\DoctorLeave.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\DoctorLeave.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T05:30:52.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Class1.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Class1.cs",
+              "RelativeToolTip": "HMS.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:07:16.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HMS.Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HMS.Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:52:54.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AppointmentStatus.cs",
               "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Enums\\AppointmentStatus.cs",
               "RelativeDocumentMoniker": "HMS.Domain\\Enums\\AppointmentStatus.cs",
@@ -142,110 +219,145 @@
               "RelativeToolTip": "HMS.Domain\\Enums\\AppointmentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T00:42:12.279Z",
+              "WhenOpened": "2026-07-04T00:42:12.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "HMS.Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T01:38:17.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginCommandHandler.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
-              "RelativeDocumentMoniker": "HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
-              "RelativeToolTip": "HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwCkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "HMS.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "HMS.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T03:29:43.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreatePatientCommandHandler.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
-              "RelativeDocumentMoniker": "HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
-              "RelativeToolTip": "HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T05:57:08.267Z",
+              "WhenOpened": "2026-06-30T01:40:15.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HasPermissionAttribute.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Filters\\HasPermissionAttribute.cs",
-              "RelativeDocumentMoniker": "HMS.API\\Filters\\HasPermissionAttribute.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Filters\\HasPermissionAttribute.cs",
-              "RelativeToolTip": "HMS.API\\Filters\\HasPermissionAttribute.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCcAAABGAAAAAAAAAA==",
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "HMS.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T04:48:59.573Z"
+              "WhenOpened": "2026-06-30T02:22:26.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:13:44.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MedicalHistory.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\MedicalHistory.cs",
-              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\MedicalHistory.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\MedicalHistory.cs",
-              "RelativeToolTip": "HMS.Domain\\Entities\\MedicalHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA8AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T04:05:13.655Z"
+              "WhenOpened": "2026-07-06T01:01:48.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginCommand.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
-              "RelativeDocumentMoniker": "HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
-              "RelativeToolTip": "HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABQAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ApproveAppointmentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Appointments\\Commands\\ApproveAppointment\\ApproveAppointmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Appointments\\Commands\\ApproveAppointment\\ApproveAppointmentCommandHandler.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Appointments\\Commands\\ApproveAppointment\\ApproveAppointmentCommandHandler.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Appointments\\Commands\\ApproveAppointment\\ApproveAppointmentCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T03:29:22.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T03:48:52.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "ApproveAppointmentCommand.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Appointments\\Commands\\ApproveAppointment\\ApproveAppointmentCommand.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Appointments\\Commands\\ApproveAppointment\\ApproveAppointmentCommand.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Appointments\\Commands\\ApproveAppointment\\ApproveAppointmentCommand.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Appointments\\Commands\\ApproveAppointment\\ApproveAppointmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T03:47:30.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "HMS.API\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "HMS.API\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T03:40:06.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateAppointmentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Appointments\\Commands\\CreateAppointment\\CreateAppointmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Appointments\\Commands\\CreateAppointment\\CreateAppointmentCommandHandler.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Appointments\\Commands\\CreateAppointment\\CreateAppointmentCommandHandler.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Appointments\\Commands\\CreateAppointment\\CreateAppointmentCommandHandler.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T02:03:37.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateAppointmentCommand.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Appointments\\Commands\\CreateAppointment\\CreateAppointmentCommand.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Appointments\\Commands\\CreateAppointment\\CreateAppointmentCommand.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Appointments\\Commands\\CreateAppointment\\CreateAppointmentCommand.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Appointments\\Commands\\CreateAppointment\\CreateAppointmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T01:57:24.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "PatientsController.cs",
               "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Controllers\\PatientsController.cs",
               "RelativeDocumentMoniker": "HMS.API\\Controllers\\PatientsController.cs",
               "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Controllers\\PatientsController.cs",
               "RelativeToolTip": "HMS.API\\Controllers\\PatientsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-03T06:00:41.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreatePatientCommand.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommand.cs",
-              "RelativeDocumentMoniker": "HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommand.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommand.cs",
-              "RelativeToolTip": "HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T05:56:45.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterCommandHandler.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
-              "RelativeDocumentMoniker": "HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
-              "RelativeToolTip": "HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:59:42.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AllergyDto.cs",
               "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\DTOs\\AllergyDto.cs",
               "RelativeDocumentMoniker": "HMS.Application\\DTOs\\AllergyDto.cs",
@@ -257,211 +369,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "HMS.Infrastructure\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\Services\\TokenService.cs",
-              "RelativeToolTip": "HMS.Infrastructure\\Services\\TokenService.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAIAwwEUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T01:40:15.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PatientAllergy.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\PatientAllergy.cs",
-              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\PatientAllergy.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\PatientAllergy.cs",
-              "RelativeToolTip": "HMS.Domain\\Entities\\PatientAllergy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T04:05:35.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Interfaces\\IApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "HMS.Application\\Interfaces\\IApplicationDbContext.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Interfaces\\IApplicationDbContext.cs",
-              "RelativeToolTip": "HMS.Application\\Interfaces\\IApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:22:26.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Permissions.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Constants\\Permissions.cs",
-              "RelativeDocumentMoniker": "HMS.Domain\\Constants\\Permissions.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Constants\\Permissions.cs",
-              "RelativeToolTip": "HMS.Domain\\Constants\\Permissions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T04:43:22.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\Patient.cs",
-              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\Patient.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\Patient.cs",
-              "RelativeToolTip": "HMS.Domain\\Entities\\Patient.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA9wBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T04:04:35.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HMS.Application.csproj",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj",
-              "RelativeDocumentMoniker": "HMS.Application\\HMS.Application.csproj",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj",
-              "RelativeToolTip": "HMS.Application\\HMS.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-30T01:36:02.949Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "HMS.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "HMS.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Title": "CreatePatientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T03:31:39.162Z"
+              "WhenOpened": "2026-07-03T05:57:08.267Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "HMS.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "HMS.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Title": "CreatePatientCommand.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommand.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommand.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommand.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Patients\\Commands\\CreatePatient\\CreatePatientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T05:22:15.351Z"
+              "WhenOpened": "2026-07-03T05:56:45.604Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "HMS.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T07:13:44.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\appsettings.json",
-              "RelativeDocumentMoniker": "HMS.API\\appsettings.json",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\appsettings.json",
-              "RelativeToolTip": "HMS.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-28T07:08:26.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Program.cs",
-              "RelativeDocumentMoniker": "HMS.API\\Program.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Program.cs",
-              "RelativeToolTip": "HMS.API\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAawF8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T07:08:33.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RegisterCommand.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
-              "RelativeDocumentMoniker": "HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
-              "RelativeToolTip": "HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:49:31.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HMS.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\HMS.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "HMS.Infrastructure\\HMS.Infrastructure.csproj",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\HMS.Infrastructure.csproj",
-              "RelativeToolTip": "HMS.Infrastructure\\HMS.Infrastructure.csproj",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-30T01:39:33.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "HMS.Domain\\Class1.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Class1.cs",
-              "RelativeToolTip": "HMS.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T07:06:57.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Interfaces\\ITokenService.cs",
-              "RelativeDocumentMoniker": "HMS.Application\\Interfaces\\ITokenService.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Interfaces\\ITokenService.cs",
-              "RelativeToolTip": "HMS.Application\\Interfaces\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T01:38:17.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "HMS.Persistence.csproj",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\HMS.Persistence.csproj",
-              "RelativeDocumentMoniker": "HMS.Persistence\\HMS.Persistence.csproj",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\HMS.Persistence.csproj",
-              "RelativeToolTip": "HMS.Persistence\\HMS.Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-28T07:22:36.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\Class1.cs",
-              "RelativeDocumentMoniker": "HMS.Persistence\\Class1.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\Class1.cs",
-              "RelativeToolTip": "HMS.Persistence\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T07:07:51.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
               "Title": "HMS.API.csproj",
               "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\HMS.API.csproj",
               "RelativeDocumentMoniker": "HMS.API\\HMS.API.csproj",
@@ -473,7 +405,247 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T03:29:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HMS.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HMS.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T05:22:15.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:47:08.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HMS.Domain.csproj",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj",
+              "RelativeDocumentMoniker": "HMS.Domain\\HMS.Domain.csproj",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\HMS.Domain.csproj",
+              "RelativeToolTip": "HMS.Domain\\HMS.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-06T00:46:41.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T04:04:35.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MedicalHistory.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\MedicalHistory.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\MedicalHistory.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\MedicalHistory.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\MedicalHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T04:05:13.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T03:29:43.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HasPermissionAttribute.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Filters\\HasPermissionAttribute.cs",
+              "RelativeDocumentMoniker": "HMS.API\\Filters\\HasPermissionAttribute.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Filters\\HasPermissionAttribute.cs",
+              "RelativeToolTip": "HMS.API\\Filters\\HasPermissionAttribute.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T04:48:59.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T02:59:42.714Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "PatientAllergy.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\PatientAllergy.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\PatientAllergy.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Entities\\PatientAllergy.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\PatientAllergy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T04:05:35.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Constants\\Permissions.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Constants\\Permissions.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Constants\\Permissions.cs",
+              "RelativeToolTip": "HMS.Domain\\Constants\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T04:43:22.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HMS.Application.csproj",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj",
+              "RelativeDocumentMoniker": "HMS.Application\\HMS.Application.csproj",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\HMS.Application.csproj",
+              "RelativeToolTip": "HMS.Application\\HMS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-30T01:36:02.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HMS.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HMS.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T03:31:39.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HMS.API\\appsettings.json",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\appsettings.json",
+              "RelativeToolTip": "HMS.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-28T07:08:26.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "HMS.API\\Program.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.API\\Program.cs",
+              "RelativeToolTip": "HMS.API\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAawF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:08:33.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "HMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T02:49:31.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HMS.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\HMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "HMS.Infrastructure\\HMS.Infrastructure.csproj",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\HMS.Infrastructure.csproj",
+              "RelativeToolTip": "HMS.Infrastructure\\HMS.Infrastructure.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-30T01:39:33.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Class1.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Domain\\Class1.cs",
+              "RelativeToolTip": "HMS.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:06:57.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HMS.Persistence.csproj",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\HMS.Persistence.csproj",
+              "RelativeDocumentMoniker": "HMS.Persistence\\HMS.Persistence.csproj",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\HMS.Persistence.csproj",
+              "RelativeToolTip": "HMS.Persistence\\HMS.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-28T07:22:36.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "HMS.Persistence\\Class1.cs",
+              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Persistence\\Class1.cs",
+              "RelativeToolTip": "HMS.Persistence\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:07:51.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "HMS.Infrastructure\\Class1.cs",
@@ -482,36 +654,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-28T07:07:31.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "HMS.Application\\Class1.cs",
-              "ToolTip": "C:\\Data\\Dev\\NetCore\\HospitalManagementSystem\\backend\\HMS.Application\\Class1.cs",
-              "RelativeToolTip": "HMS.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T07:07:16.719Z"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 93,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

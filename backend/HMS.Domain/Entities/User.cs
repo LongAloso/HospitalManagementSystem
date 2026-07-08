@@ -6,9 +6,8 @@ public class User
     public string Username { get; set; } = string.Empty;
     public string PasswordHash { get; set; } = string.Empty;
     public string Email { get; set; } = string.Empty;
-    public string Role { get; set; } = string.Empty; // Sẽ scale lên Permission sau
+    public string Role { get; set; } = string.Empty; 
 
-    // Quản lý Refresh Token
     public string? RefreshToken { get; set; }
     public DateTime? RefreshTokenExpiryTime { get; set; }
 }
